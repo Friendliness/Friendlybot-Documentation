@@ -271,6 +271,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://friendliness.me/track/</loc>
+         <lastmod>2022-08-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://friendliness.me/triggerroles/</loc>
          <lastmod>2022-08-30</lastmod>
          <changefreq>daily</changefreq>

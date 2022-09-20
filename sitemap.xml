@@ -146,6 +146,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://friendliness.me/portables/</loc>
+         <lastmod>2022-09-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://friendliness.me/purge/</loc>
          <lastmod>2022-09-20</lastmod>
          <changefreq>daily</changefreq>
@@ -267,6 +272,11 @@
     </url>
     <url>
          <loc>https://friendliness.me/ticketing/</loc>
+         <lastmod>2022-09-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://friendliness.me/track/</loc>
          <lastmod>2022-09-20</lastmod>
          <changefreq>daily</changefreq>
     </url>

@@ -618,20 +618,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#host-lol" class="md-nav__link">
-    host lol
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#Cogs.hostcog.HostCog.host_form_lol_command" class="md-nav__link">
-    host_form_lol_command
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -1468,20 +1454,6 @@
   
 </li>
       
-        <li class="md-nav__item">
-  <a href="#host-lol" class="md-nav__link">
-    host lol
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#Cogs.hostcog.HostCog.host_form_lol_command" class="md-nav__link">
-    host_form_lol_command
-  </a>
-  
-</li>
-      
     </ul>
   
 </nav>
@@ -2138,131 +2110,6 @@ If this option is used and the <code>thread</code> option is also used, the ping
   <div class="doc doc-contents first">
   
       <p>Creates a host form for <strong>Elyon</strong>.</p>
-<p>Users can click buttons to sign up for roles for an activity.
-Once the group is completed, a <code>Notify Players</code> button can be clicked to display an overview of who signed up for which role, while mentioning the users who signed up.</p>
-<p>When the <code>roles_to_mention</code> option is used, roles that are mentionable by everyone will be pinged by the bot.
-If this option is used and the <code>thread</code> option is also used, the ping will occur inside of the thread.</p>
-<div class="admonition note">
-<p class="admonition-title">Note</p>
-<p>To create a thread, the user running the command and the bot will both need to have permission to create public threads in the current channel.</p>
-</div>
-
-  <p><strong>Parameters:</strong></p>
-  <table>
-    <thead>
-      <tr>
-        <th>Name</th>
-        <th>Type</th>
-        <th>Description</th>
-        <th>Default</th>
-      </tr>
-    </thead>
-    <tbody>
-        <tr>
-          <td><code>activity_name</code></td>
-          <td>
-                <code>str</code>
-          </td>
-          <td><p>The name of the activity you'd like to host.</p></td>
-          <td>
-              <em>required</em>
-          </td>
-        </tr>
-        <tr>
-          <td><code>description</code></td>
-          <td>
-                <code>str</code>
-          </td>
-          <td><p>A description for the activity, this will be posted in the embed. Defaults to None.</p></td>
-          <td>
-                <code>None</code>
-          </td>
-        </tr>
-        <tr>
-          <td><code>required_roles</code></td>
-          <td>
-                <code><span title="discord.app_commands">app_commands</span>.<span title="discord.app_commands.Transform">Transform</span>[str, <span title="utils.transformers.RoleTransformer">RoleTransformer</span>]</code>
-          </td>
-          <td><p>The roles required to sign up for this host form. Defaults to None.</p></td>
-          <td>
-                <code>None</code>
-          </td>
-        </tr>
-        <tr>
-          <td><code>date</code></td>
-          <td>
-                <code><span title="discord.app_commands">app_commands</span>.<span title="discord.app_commands.Transform">Transform</span>[str, <span title="utils.transformers.DateHoursMinutesTransformer">DateHoursMinutesTransformer</span>]</code>
-          </td>
-          <td><p>A date for the host form. Defaults to None.</p></td>
-          <td>
-                <code>None</code>
-          </td>
-        </tr>
-        <tr>
-          <td><code>fill</code></td>
-          <td>
-                <code>int</code>
-          </td>
-          <td><p>Whether the <code>fill</code> option should be added to the form. Defaults to not adding it.</p></td>
-          <td>
-                <code>0</code>
-          </td>
-        </tr>
-        <tr>
-          <td><code>learner</code></td>
-          <td>
-                <code>int</code>
-          </td>
-          <td><p>Whether the <code>learner</code> option should be added to the form.. Defaults to not adding it.</p></td>
-          <td>
-                <code>0</code>
-          </td>
-        </tr>
-        <tr>
-          <td><code>total_maximum</code></td>
-          <td>
-                <code>int</code>
-          </td>
-          <td><p>Override the maximum amount of players that can sign up. Defaults to not overriding it.</p></td>
-          <td>
-                <code>None</code>
-          </td>
-        </tr>
-        <tr>
-          <td><code>thread</code></td>
-          <td>
-                <code>int</code>
-          </td>
-          <td><p>Whether a thread should be created for this form or not. Defaults to not creating a thread. (Requires permission to create public threads in the current channel)</p></td>
-          <td>
-                <code>0</code>
-          </td>
-        </tr>
-        <tr>
-          <td><code>roles_to_mention</code></td>
-          <td>
-                <code><span title="discord.app_commands">app_commands</span>.<span title="discord.app_commands.Transform">Transform</span>[str, <span title="utils.transformers.RoleTransformer">RoleTransformer</span>]</code>
-          </td>
-          <td><p>Optionally which roles should be mentioned, if a thread is enabled the roles will be mentioned inside of the thread</p></td>
-          <td>
-                <code>None</code>
-          </td>
-        </tr>
-    </tbody>
-  </table>
-
-  </div>
-
-</div><h2 id="host-lol">host lol</h2>
-
-
-<div class="doc doc-object doc-function">
-
-
-<a id="Cogs.hostcog.HostCog.host_form_lol_command"></a>
-  <div class="doc doc-contents first">
-  
-      <p>Creates a host form for <strong>League of Legends</strong>.</p>
 <p>Users can click buttons to sign up for roles for an activity.
 Once the group is completed, a <code>Notify Players</code> button can be clicked to display an overview of who signed up for which role, while mentioning the users who signed up.</p>
 <p>When the <code>roles_to_mention</code> option is used, roles that are mentionable by everyone will be pinged by the bot.

@@ -546,6 +546,34 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#giveaway-participants" class="md-nav__link">
+    giveaway participants
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#Cogs.giveawaycog.GiveAwayCog._giveaway_participants" class="md-nav__link">
+    _giveaway_participants
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#giveaway-reroll" class="md-nav__link">
+    giveaway reroll
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#Cogs.giveawaycog.GiveAwayCog._giveaway_reroll" class="md-nav__link">
+    _giveaway_reroll
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -774,6 +802,21 @@
     <li class="md-nav__item">
       <a href="../perk/" class="md-nav__link">
         perk
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../pinkskirtevents/" class="md-nav__link">
+        pinkskirtevents
       </a>
     </li>
   
@@ -1400,6 +1443,34 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#giveaway-participants" class="md-nav__link">
+    giveaway participants
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#Cogs.giveawaycog.GiveAwayCog._giveaway_participants" class="md-nav__link">
+    _giveaway_participants
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#giveaway-reroll" class="md-nav__link">
+    giveaway reroll
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#Cogs.giveawaycog.GiveAwayCog._giveaway_reroll" class="md-nav__link">
+    _giveaway_reroll
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -1656,6 +1727,90 @@
                 <code>str</code>
           </td>
           <td><p>The new title the giveaway should get.</p></td>
+          <td>
+              <em>required</em>
+          </td>
+        </tr>
+    </tbody>
+  </table>
+
+  </div>
+
+</div><h2 id="giveaway-participants">giveaway participants</h2>
+
+
+<div class="doc doc-object doc-function">
+
+
+<a id="Cogs.giveawaycog.GiveAwayCog._giveaway_participants"></a>
+  <div class="doc doc-contents first">
+  
+      <p>Shows you the amount of users currently signed up for a giveaway</p>
+
+  <p><strong>Parameters:</strong></p>
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Type</th>
+        <th>Description</th>
+        <th>Default</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td><code>message</code></td>
+          <td>
+                <code><span title="discord.app_commands">app_commands</span>.<span title="discord.app_commands.Transform">Transform</span>[str, <span title="utils.transformers.MessageTransformer">MessageTransformer</span>]</code>
+          </td>
+          <td><p>A link or ID of a message with a giveaway.</p></td>
+          <td>
+              <em>required</em>
+          </td>
+        </tr>
+    </tbody>
+  </table>
+
+  </div>
+
+</div><h2 id="giveaway-reroll">giveaway reroll</h2>
+
+
+<div class="doc doc-object doc-function">
+
+
+<a id="Cogs.giveawaycog.GiveAwayCog._giveaway_reroll"></a>
+  <div class="doc doc-contents first">
+  
+      <p>Rerolls a specified amount of winners for a giveaway</p>
+
+  <p><strong>Parameters:</strong></p>
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Type</th>
+        <th>Description</th>
+        <th>Default</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td><code>message</code></td>
+          <td>
+                <code><span title="discord.app_commands">app_commands</span>.<span title="discord.app_commands.Transform">Transform</span>[str, <span title="utils.transformers.MessageTransformer">MessageTransformer</span>]</code>
+          </td>
+          <td><p>A link or ID of a message with a giveaway.</p></td>
+          <td>
+              <em>required</em>
+          </td>
+        </tr>
+        <tr>
+          <td><code>winners</code></td>
+          <td>
+                <code>int</code>
+          </td>
+          <td><p>The amount of winners you'd like to reroll.</p></td>
           <td>
               <em>required</em>
           </td>

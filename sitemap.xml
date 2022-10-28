@@ -2,332 +2,337 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://friendliness.me/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/achievementtracker/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/adminlogs/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/affiliate/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/alog/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/badwords/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/ban/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/bugreport/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/cappers/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/clanstats/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/donate/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/eventscalendar/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://friendliness.me/faq/</loc>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/friendlybot/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/gametime/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/giveaway/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/help/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/host/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/jagexclock/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/joined/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/joinrole/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/kick/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/massrole/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/merch/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/nemi/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/notifyfswpylon/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/notifyfswrex/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/notifyme/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/notifypylon/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/notifyrex/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/perk/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/pinkskirtevents/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/poll/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/portables/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/purge/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/pvm/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/pylonstatus/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/quest/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/react/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/recentusers/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/reminders/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/role/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/rolebuttons/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/roledropdown/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/rolefromrole/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/roleinfo/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/roletorole/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/roll/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/servers/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/setrsn/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/split/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/splitaod/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/stats/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/stickyroles/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/suggestion/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/tempvc/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/tempvoice/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/tempvoicepm/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/ticketing/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/track/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/triggerroles/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/unban/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/uniban/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/unix/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/userinfo/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/visitors/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://friendliness.me/voicelogs/</loc>
-         <lastmod>2022-10-25</lastmod>
+         <lastmod>2022-10-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

@@ -1404,9 +1404,11 @@
   
       <p>Adds a role to the list of roles that should trigger the removal of other roles.</p>
 <p>A trigger role is a role that will cause other roles to be automatically removed. So when a user is assigned the trigger role, they will lose the roles that trigger role is configured to remove.</p>
-<p>!!! Example:
-    One of the administrators ran the command: <code>/triggerrole add role: @Unsubscribe roles_to_remove: @Cool Role @Awesome Role</code>
-    A user is assigned the trigger role, in this case <code>@Unsubscribe</code>, which would cause <code>@Cool Role</code> and <code>@Awesome Role</code> to be removed from them automatically.</p>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p>One of the administrators ran the command: <code>/triggerrole add role: @Unsubscribe roles_to_remove: @Cool Role @Awesome Role</code>
+A user is assigned the trigger role, in this case <code>@Unsubscribe</code>, which would cause <code>@Cool Role</code> and <code>@Awesome Role</code> to be removed from them automatically.</p>
+</div>
 
   <p><strong>Parameters:</strong></p>
   <table>
